@@ -1,4 +1,4 @@
-                                                                        #feature-engineering-technique
+                                                                        # feature-engineering-technique
                                                                         
 In this notebook i am working on Data science job with salary and the column represent are :
 
